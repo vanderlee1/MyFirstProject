@@ -2,7 +2,7 @@
 Rebecca van der Lee
 C++ fall 2020
 Due:8/31/2020
-1 and Lab 1 Introduction to C++ Programming
+Lab 1 Introduction to C++ Programming
 This lab will serve as a demonstration of your ability to download a project from GitHub,
 compile and run the project, upload a project to GitHub, and submit a project to Google
 Classroom. This lab assumes you have downloaded and installed an IDE
